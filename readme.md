@@ -1,6 +1,4 @@
-Sure, here is the README file in Markdown format:
 
-```markdown
 # Travel Planner App
 
 The Travel Planner App aims to revolutionize travel planning by offering a context-aware, AI-powered solution that personalizes travel experiences. Through an intuitive interface, the app provides destination inspiration, personalized itineraries, and real-time local transportation guidance. Key features include AI-based recommendations, OCR for text translation within images, text-to-speech conversion for accessibility, and a community platform for travelers to share experiences and tips.
